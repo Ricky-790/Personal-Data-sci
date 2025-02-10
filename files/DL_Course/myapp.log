@@ -1,0 +1,17 @@
+2024-11-21 11:57:10,375 - root - DEBUG - This is a debug message
+2024-11-21 11:57:10,376 - root - INFO - This is an info message
+2024-11-21 11:57:10,377 - root - WARNING - This is a warning message
+2024-11-21 11:57:10,377 - root - ERROR - This is error message
+2024-11-21 11:57:10,377 - root - CRITICAL - This is critical message
+2024-11-22 11:03:05 - DEBUG - Adding 5 and 0
+2024-11-22 11:03:05 - DEBUG - Subtracting 5 and 0
+2024-11-22 11:03:05 - DEBUG - Multiplying 5 and 0
+2024-11-22 11:03:05 - ERROR - Can not divide by zero
+2024-11-22 11:03:11 - DEBUG - Adding 5 and 0
+2024-11-22 11:03:11 - DEBUG - Subtracting 5 and 0
+2024-11-22 11:03:11 - DEBUG - Multiplying 5 and 0
+2024-11-22 11:03:11 - ERROR - Can not divide by zero
+2024-11-22 11:03:39 - DEBUG - Adding 5 and 10
+2024-11-22 11:03:39 - DEBUG - Subtracting 5 and 10
+2024-11-22 11:03:39 - DEBUG - Multiplying 5 and 10
+2024-11-22 11:03:39 - DEBUG - Dividing 5 and 10
